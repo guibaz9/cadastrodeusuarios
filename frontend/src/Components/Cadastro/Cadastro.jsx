@@ -115,9 +115,6 @@ const Cadastro = () => {
         </div>
 
         <button>Cadastrar</button>
-        <Link to="/lista-usuarios" className="lista-btn">
-        Ver Usuários Cadastrados
-        </Link>
       </form>
     </div>
   );
